@@ -1,0 +1,29 @@
+.article-preview {
+  background-color: white;
+  border: 1px solid hsl(0, 0%, 85%);
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.article-preview > img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.article-preview > div {
+  padding: 1rem;
+}
+
+.article-preview > div > h2 {
+  font-size: 1.25rem;
+  line-height: 1.3;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.article-preview > div > p {
+  font-size: 1rem;
+  color: rgba(0, 0, 0, 0.75);
+  line-height: 1.5;
+}
