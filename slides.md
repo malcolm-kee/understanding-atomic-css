@@ -31,7 +31,7 @@ drawings:
 <ol>
   <li>Typical Approaches of Writing CSS</li>
   <li>Atomic CSS and Tailwind CSS</li>
-  <li>Comparisons and Implications</li>
+  <li>Drawbacks and Benefits</li>
 </ol>
 
 </div>
